@@ -1,0 +1,12 @@
+# AWS global configuration
+aws_region = "us-east-1"
+aws_profile = "value-from-aws-credentials-file"
+
+# Default GitHub repository details (common across environments)
+github_owner  = "your-github-username"
+github_repo   = "static-website"
+github_branch = "main"
+
+# General website defaults
+index_document = "index.html"
+error_document = "error.html"
