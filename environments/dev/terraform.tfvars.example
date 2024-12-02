@@ -2,7 +2,7 @@
 environment = "dev"
 
 # S3 bucket specific to dev
-bucket_name  = "static-website"
+bucket_name  = "dev-static-website-bucket"
 
 # CodePipeline specific to dev
 pipeline_name = "dev-static-website-pipeline"

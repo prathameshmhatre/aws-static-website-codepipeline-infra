@@ -1,0 +1,9 @@
+// git ignore file for terraform files
+// Terraform files
+*.tfstate
+*.tfstate.backup
+*.tfvars
+/environment/*.tfvars
+*.tfplan
+*.terraform
+.terraform.lock.hcl
