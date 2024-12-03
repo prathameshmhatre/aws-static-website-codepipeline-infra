@@ -3,7 +3,7 @@
 *.tfstate
 *.tfstate.backup
 *.tfvars
-/environment/*.tfvars
+environments/dev/terraform.tfvars
 *.tfplan
 *.terraform
 .terraform.lock.hcl
